@@ -1,12 +1,18 @@
 # Led-Control-Using-Hand-Gesture
-led will control using finger movement arduino uno
+
 
 𝐇𝐚𝐫𝐝𝐰𝐚𝐫𝐞:
+
 Arduino Uno
+
 LED + resistor
+
 Male to Male Wire
+
 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞:
+
 Arduino IDE
+
 Visual Studio Code
 
 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐥𝐢𝐧𝐠 𝐚𝐧 𝐋𝐄𝐃 𝐰𝐢𝐭𝐡 𝐡𝐚𝐧𝐝 𝐠𝐞𝐬𝐭𝐮𝐫𝐞𝐬 𝐮𝐬𝐢𝐧𝐠 𝐏𝐲𝐭𝐡𝐨𝐧 𝐚𝐧𝐝 𝐀𝐫𝐝𝐮𝐢𝐧𝐨 𝐔𝐧𝐨 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐬 𝐜𝐨𝐦𝐛𝐢𝐧𝐢𝐧𝐠:
